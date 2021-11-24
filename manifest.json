@@ -1,0 +1,13 @@
+{
+    "name":"Dictionary",
+    "version":"1.0",
+    "manifest_version": 2,
+    "version_name": "1.0 beta",
+    "browser_action":{
+        "default_popup":"popup.html"
+    },
+    "icons":{
+        "128":"dictionary-icon.png"
+    },
+    "permissions":["activeTab"]
+}
